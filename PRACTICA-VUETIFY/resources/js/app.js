@@ -11,6 +11,7 @@ import 'vuetify/styles'
 import '@mdi/font/css/materialdesignicons.css'
 import vuetify from './Plugins/vuetify'
 
+
 const appName = import.meta.env.VITE_APP_NAME || 'Laravel';
 
 createInertiaApp({
